@@ -10,8 +10,8 @@
 }
 
 p {
-  display: block;
+  display: red;
   width: 400px;
   margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 30px Monaco,"Courier New","Arial","Bitstream Vera Sans Mono",monospace;
 }
